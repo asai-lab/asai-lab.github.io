@@ -10,13 +10,13 @@
 	〈網站第一篇文章〉的留言	</title>
 	<atom:link href="/2023/09/16/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>/2023/09/16/hello-world/</link>
-	<description></description>
+	<description>Keeping you Cool, in Every Step</description>
 	<lastBuildDate>Sat, 16 Sep 2023 02:18:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 	<item>
 		<title>
 		留言者: WordPress 示範留言者		</title>
